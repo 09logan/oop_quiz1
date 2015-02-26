@@ -1,7 +1,7 @@
 /*
  Program: Question 1 from quiz 1.
- Name   : Milan Lamichhane
- Roll   :
+ Name   : Bidur Banstola
+ Roll   : 0304
  Output : 8
 */
 
